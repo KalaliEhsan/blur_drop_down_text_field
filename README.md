@@ -1,3 +1,3 @@
 # blur_drop_down_text_field
 
-![](https://github.com/KalaliEhsan/blur_drop_down_text_field/blob/master/test.gif)
+<img src="https://github.com/KalaliEhsan/blur_drop_down_text_field/blob/master/test.gif" width="300" height="600">
